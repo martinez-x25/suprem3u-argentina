@@ -17,7 +17,7 @@ https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Argentina 🇦🇷",El Trece
 #EXTVLCOPT:http-referrer=https://vodgc.net
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+http://181.209.105.115:2525/play/eltrece/index.m3u8
 
 #EXTINF:-1 tvg-id="9Parana.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Canal_9_Litoral_%28Logo_2021%29.png/revision/latest/scale-to-width-down/50?cb=20220305163041" group-title="Argentina 🇦🇷",Canal 9 Parana
 https://stream.arcast.live/canal9litoralhd/ngrp:canal9litoralhd_all/playlist.m3u8
