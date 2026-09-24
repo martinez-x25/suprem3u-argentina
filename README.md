@@ -1,4 +1,6 @@
-# 📺 Listas M3U Personales (cree esta lista para santa fe)
+# 📺 Listas M3U Personales - Argentina 
 
 Repositorio privado/personal para alojar y organizar mis listas M3U para reproducción IPTV.
+
+r/ArgentinaIPTV
 
