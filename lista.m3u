@@ -1,11 +1,14 @@
+#EXTM3U url-tvg="https://jarap.github.io/iptv-epg-argentina/epg.xml.gz"                                                               
+
+#EXTINF:-1 tvg-logo="https://styles.redditmedia.com/t5_h92sqw/styles/communityIcon_24etyhcx3svg1.png?width=128&frame=1&auto=webp&s=c2dea54c635956c15fe41fd0ef80bb4992b3f3d6" group-title="ARG | IPTV", Actualizado 27/9/2026
+http://reddit.com/r/ArgentinaIPTV
+
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a24-ar.png?raw=true" group-title="Noticias 🇦🇷",A24
 #EXTVLCOPT:http-reconnect=true
 http://45.134.141.161:2200/ARG/A24/index.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/america-ar.png?raw=true" tvg-country="AR" group-title="Argentina 🇦🇷",América TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=4000
-https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
+http://181.115.239.66:8000/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://88producciones.com.ar/wp-content/uploads/2021/07/88Prensa_logos-TVPublica2.png" group-title="Argentina 🇦🇷",TV Pública
 http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/tvpublica_720.m3u8
@@ -45,11 +48,11 @@ http://181.209.105.115:2525/play/cronica/index.m3u8
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Nueve.png?raw=true" group-title="Argentina 🇦🇷",El Nueve
 http://181.209.105.115:2525/play/elnueve/index.m3u8
 
-#EXTINF:-1 tvg-id="AlphaTV.ar" tvg-logo="https://alphatv.com.ar/alphatv_logo.png" group-title="Argentina 🇦🇷",Alpha TV
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?dpssid=b27222636116961ddc35ab56&sid=ba5t1l1xb212115466636967e1748ec43&ndvc=0
-
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Net.png?raw=true" group-title="Argentina 🇦🇷",Net TV
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/el-garage-tv-ar.png?raw=true" group-title="Automovilismo 🇦🇷",Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/encuentro-ar.png?raw=true" group-title="Argentina 🇦🇷",Encuentro 
 #EXTVLCOPT:http-reconnect=true
@@ -91,7 +94,7 @@ http://181.209.80.115:8000/play/dsports_hd
 #EXTINF:-1 tvg-id="DSports2.ar" tvg-logo="https://envivo.rojadirectatv.casa//wp-content/uploads/futbol-agenda/canales/directv-sports-2.webp" group-title="Deportes 🇦🇷",DSports 2
 http://45.134.141.161:2200/ARG/DTV_SP2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-plus-lam.png?raw=true" group-title="Deportes 🌎",DSports +
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-plus-lam.png?raw=true" group-title="Deportes 🇦🇷",DSports +
 #EXTVLCOPT:http-reconnect=true
 http://195.178.110.110/dsportsplus/index.m3u8
 
