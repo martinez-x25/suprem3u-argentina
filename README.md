@@ -1,6 +1,4 @@
-# 📺 Listas M3U Personales - Argentina 
+Repositorio para compartir listas.
+r/ArgentinaIPTV - Titan2022_XD
 
-Repositorio privado/personal para alojar y organizar mis listas M3U para reproducción IPTV.
-
-r/ArgentinaIPTV
 
