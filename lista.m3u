@@ -1,6 +1,6 @@
-#EXTM3U url-tvg="https://jarap.github.io/iptv-epg-argentina/epg.xml.gz"                                                               
+#EXTM3U url-tvg="https://jarap.github.io/iptv-epg-argentina/epg.xml.gz,https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/argentina2.xml,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/argentina4.xml,https://www.open-epg.com/files/argentina5.xml,https://www.open-epg.com/files/argentina6.xml,https://www.open-epg.com/files/argentina7.xml"                                                              
 
-#EXTINF:-1 tvg-logo="https://styles.redditmedia.com/t5_h92sqw/styles/communityIcon_24etyhcx3svg1.png?width=128&frame=1&auto=webp&s=c2dea54c635956c15fe41fd0ef80bb4992b3f3d6" group-title="ARG | IPTV", Actualizado 27/9/2026 - 20:24
+#EXTINF:-1 tvg-logo="https://styles.redditmedia.com/t5_h92sqw/styles/communityIcon_24etyhcx3svg1.png?width=128&frame=1&auto=webp&s=c2dea54c635956c15fe41fd0ef80bb4992b3f3d6" group-title="ARG | IPTV", Actualizado 20:44 28/9/26
 http://reddit.com/r/ArgentinaIPTV
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a24-ar.png?raw=true" group-title="Noticias 🇦🇷",A24
