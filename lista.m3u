@@ -143,32 +143,11 @@ http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/737501.ts
 #EXTINF:-1 group-title="24/7 VIP" tvg-logo="https://n9.cl/4w72j",Inspector Gadget 24/7
 http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/526515.m3u8
 
-#EXTINF:-1 group-title="24/7" tvg-logo="https://n9.cl/4w72j",LA PANTERA ROSA 24/7
+#EXTINF:-1 group-title="24/7" tvg-logo="https://n9.cl/4w72j",La Pantera Rosa 24/7
 http://planettvweb.com:8091/live/ContiaAbella/Cintia638/17765.m3u8
 
 #EXTINF:-1 group-title="24/7 VIP" tvg-logo="https://n9.cl/4w72j",Rocky 24/7
 http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/526420.m3u8
-
-#EXTINF:-1 group-title="HBO", HBO
-http://181.209.105.115:2525/play/hbo/index.m3u8
-
-#EXTINF:-1 group-title="HBO", HBO 2
-http://181.209.105.115:2525/play/hbo2/index.m3u8
-
-#EXTINF:-1 group-title="HBO", HBO Family
-http://181.209.105.115:2525/play/hbofamily/index.m3u8
-
-#EXTINF:-1 group-title="HBO", HBO Mundi
-http://181.209.105.115:2525/play/hbomondi/index.m3u8
-
-#EXTINF:-1 group-title="HBO", HBO Plus
-http://181.209.105.115:2525/play/hboplus/index.m3u8
-
-#EXTINF:-1 group-title="HBO",HBO Signature
-http://181.209.105.115:2525/play/hbosignature/index.m3u8
-
-#EXTINF:-1 group-title="HBO",HBO Xtreme
-http://181.209.105.115:2525/play/hboxtreme/index.m3u8
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/250px-Las_Estrellas_logo_%282016%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Mexico MX",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8?bw=8000&segment_size=4&max_bitrate=12000&min_bitrate=3000&frame_rate=60&buffer_length=5&latency=normal
