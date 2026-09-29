@@ -29,7 +29,7 @@ https://cdn5x.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
 https://cdn5x.sensa.com.ar/output/SMT6/RTSh/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Telefe.png?raw=true" group-title="Argentina 🇦🇷",Telefe
-http://181.209.80.115:8000/play/telefe_hd
+http://195.178.110.110:80/telefe/index.m3u8
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://github.com/CINECITY2023/cinecity/blob/a2909ca32b47b29df8a65d0675e330b66313c7c9/logos/noticias/CHc5n.png?raw=true" group-title="Noticias 🇦🇷",C5N
 http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/c5n.playlist.m3u8
@@ -65,7 +65,8 @@ http://181.209.80.115:8000/play/ciudad_magazine
 http://181.209.80.115:8000/play/volver
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes 🇦🇷",ESPN 1
-http://138.59.227.20:8000/play/a099/index.m3u8?hls
+#EXTVLCOPT:http-reconnect=true
+http://195.178.110.110/espn/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true" group-title="Deportes 🇦🇷",ESPN 2 
 #EXTVLCOPT:http-reconnect=true
@@ -119,11 +120,11 @@ http://181.209.105.115:2525/play/tycsports/index.m3u8
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/deportv-ar.png?raw=true" group-title="Deportes 🇦🇷",DeporTV
 http://181.209.105.115:2525/play/deportv/index.m3u8
 
-#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Paka Paka HD" tvg-logo="https://i.postimg.cc/WbHjtTzQ/Paka-Paka-2025.png" group-title="INFANTILES",Paka Paka
-http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/712737.ts
+#EXTINF:-1 group-title="Infantiles",Paka Paka
+http://181.209.105.115:2525/play/pakapaka/index.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryKids.ar" tvg-name="Discovery Kids HD" tvg-logo="https://i.ibb.co/4tQzkbt/discovere4r4e.png" group-title="INFANTILES",Discovery Kids
-http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/11924.ts
+#EXTINF:-1 group-title="Infantiles",Discovery Kids HD
+http://181.209.105.115:2525/play/discoverykids/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del Ocho" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM3ZmY2YzAtZjY1My00OTJjLWI5M2QtYmYxNDQ1OTBkY2E2XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_.jpg" group-title="24/7 - COMEDIA",24/7 El Chavo del Ocho
 http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/783521.ts
@@ -145,9 +146,6 @@ http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/526515.m3u8
 
 #EXTINF:-1 group-title="24/7" tvg-logo="https://n9.cl/4w72j",La Pantera Rosa 24/7
 http://planettvweb.com:8091/live/ContiaAbella/Cintia638/17765.m3u8
-
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="https://n9.cl/4w72j",Rocky 24/7
-http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/526420.m3u8
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/250px-Las_Estrellas_logo_%282016%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Mexico MX",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8?bw=8000&segment_size=4&max_bitrate=12000&min_bitrate=3000&frame_rate=60&buffer_length=5&latency=normal
