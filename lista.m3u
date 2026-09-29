@@ -125,13 +125,6 @@ http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/712737.ts
 #EXTINF:-1 tvg-id="DiscoveryKids.ar" tvg-name="Discovery Kids HD" tvg-logo="https://i.ibb.co/4tQzkbt/discovere4r4e.png" group-title="INFANTILES",Discovery Kids
 http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/11924.ts
 
-#EXTM3U
-#EXTINF:-1 tvg-name="NET TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="General",NET TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:clearkey=QoA_2MLP-Dv8oOZJMcQtKw:coyq4pToZLZqq-dTxy3wXg
-https://edge-live18-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwNjk4MTI2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0dFTl9UVi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNDgyNzk4ZDRlZTEzYWIxZCIsInNlc3Npb25faWQiOiI4NTYzYzExMGQ3YjFlNTI5OGQ0MjllOThiNzJiMDUyZC0xNzkwNTI1MzI2LTc1MSIsImNsaWVudF9pZCI6ImZsb3c6NDQwNTI4MS0tZmxvdzo0NDA1MjgxOlAiLCJkZXZpY2VfaWQiOiI4NTYzYzExMGQ3YjFlNTI5OGQ0MjllOThiNzJiMDUyZCIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzQ0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.nQbm_xPVjrqL62jThkvRTfY4Q89iF3Q4NkUrnWsHGea6wMY7FAZGSJhU7hdM5iL0Vst9eGkr3AEv-XkRgmKeAQ==/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.mpd|Origin=https://portal.app.flow.com.py&Referer=https://portal.app.flow.com.py/
-
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del Ocho" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM3ZmY2YzAtZjY1My00OTJjLWI5M2QtYmYxNDQ1OTBkY2E2XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_.jpg" group-title="24/7 - COMEDIA",24/7 El Chavo del Ocho
 http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/783521.ts
 
