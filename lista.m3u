@@ -7,8 +7,8 @@ http://reddit.com/r/ArgentinaIPTV
 #EXTVLCOPT:http-reconnect=true
 http://45.134.141.161:2200/ARG/A24/index.m3u8
 
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/america-ar.png?raw=true" tvg-country="AR" group-title="Argentina 🇦🇷",América TV
-http://181.115.239.66:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/america-ar.png?raw=true" tvg-country="AR" group-title="Argentina 🇦🇷", América TV
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/deb41b6a-b6f2-495e-b5ef-11189d23b096:SCL2/master.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://88producciones.com.ar/wp-content/uploads/2021/07/88Prensa_logos-TVPublica2.png" group-title="Argentina 🇦🇷",TV Pública
 http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/tvpublica_720.m3u8
@@ -28,11 +28,8 @@ https://cdn5x.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
 #EXTINF:-1 tvg-id="RTS.ar" tvg-logo="https://rtsmedios.com.ar/wp-content/uploads/2025/01/logo_rtsw.png" group-title="Argentina 🇦🇷",RTS
 https://cdn5x.sensa.com.ar/output/SMT6/RTSh/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Telefe.png?raw=true" group-title="Argentina 🇦🇷",Telefe
-http://195.178.110.110:80/telefe/index.m3u8
-
-#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://github.com/CINECITY2023/cinecity/blob/a2909ca32b47b29df8a65d0675e330b66313c7c9/logos/noticias/CHc5n.png?raw=true" group-title="Noticias 🇦🇷",C5N
-http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/c5n.playlist.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Telefe.png?raw=true" 
+http://181.209.91.106:2222/Live/6dbb671c7b1b078e8678c2e31e0c8243/telefe_480.m3u8
 
 #EXTINF:-1 tvg-name="LaNacionPlus.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-LN.png?raw=true" tvg-id="LaNacionPlus.ar" group-title="Noticias 🇦🇷",LN+
 http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/lntv.playlist.m3u8
