@@ -63,7 +63,7 @@ http://181.209.80.115:8000/play/volver
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes 🇦🇷",ESPN 1
 #EXTVLCOPT:http-reconnect=true
-http://181.209.105.115:2525/play/espn/index.m3u8
+http://195.178.110.110/espn/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true" group-title="Deportes 🇦🇷",ESPN 2 
 #EXTVLCOPT:http-reconnect=true
